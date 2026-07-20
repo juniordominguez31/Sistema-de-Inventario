@@ -1,4 +1,4 @@
-# 🛒 Sistema de Gestión de Inventario - Productos de Limpieza
+# 📋 Sistema de Gestión de Inventario - Productos de Limpieza
 
 > Proyecto Final del curso de **Programación Orientada a Objetos** - UTP  
 > Desarrollado por: **Junior Dominguez Camara** - Código: U24271569  
@@ -13,7 +13,7 @@ El proyecto aplica los pilares fundamentales de la POO: **Encapsulamiento, Heren
 
 -----------------------------------------------------------------------------------------------------------------
 
-## 🛠️ Tecnologías y Herramientas Utilizadas
+## 📋 Tecnologías y Herramientas Utilizadas
 | Elemento               | Detalle                                  |
 |------------------------|------------------------------------------|
 | Lenguaje de programación | Java SE 17                               |
